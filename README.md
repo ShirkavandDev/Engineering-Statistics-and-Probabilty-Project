@@ -1,9 +1,9 @@
 # Descriptive Analysis of Income-Decile Classification and Financial Behaviors among Iranians (2019–2023)
 
-> **Course Project — Engineering Statistics and Probability**  
-> **Researcher:** Amirreza Shirkavand
-> **Course Instructor:** [Prof. Saeed Ghazanfari-Rad](https://scholar.google.com/citations?user=x1ms3cgAAAAJ)
-> Software: Python 3.13.1 · pandas · matplotlib · scipy  
+> **Course Project — Engineering Statistics and Probability**<br>
+> **Researcher:** Amirreza Shirkavand<br>
+> **Course Instructor:** [Prof. Saeed Ghazanfari-Rad](https://scholar.google.com/citations?user=x1ms3cgAAAAJ)<br>
+> Software: Python 3.13.1 · pandas · matplotlib · scipy<br>
 > Dataset: Iranian Welfare Database, Ministry of Cooperatives, Labour and Social Welfare
 
 ---
