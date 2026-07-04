@@ -1,0 +1,5 @@
+pandas
+matplotlib
+scipy
+arabic-reshaper
+python-bidi
