@@ -1,6 +1,6 @@
 # Descriptive Analysis of Income-Decile Classification and Financial Behaviors among Iranians (2019–2023)
 
-> **Course Project — Engineering Statistics and Probability**<br>
+> **Engineering Statistics and Probability Project**<br>
 > **Researcher:** Amirreza Shirkavand<br>
 > **Course Instructor:** [Prof. Saeed Ghazanfari-Rad](https://scholar.google.com/citations?user=x1ms3cgAAAAJ)<br>
 > Software: Python 3.13.1 · pandas · matplotlib · scipy<br>
@@ -109,6 +109,6 @@ The full written report (in Persian) is available as [`report.pdf`](./report.pdf
 
 1. Iranian Welfare Database, Ministry of Cooperatives, Labour and Social Welfare. (2023). 2% Sample of the Iranian Welfare Database. https://refahdb.mcls.gov.ir/fa/downloaddata-دانلودداده
 2. Daghigheh Data Analysis School. (2024, 16 June). Introduction to the Iranian Welfare Database. https://d-learn.ir/wellfare-data-bank
-3. Mohammadi, H. (2026, 21 May). Subsidy eligibility conditional on passing the means test. IBNA. https://ibena.ir/fa/news/183279
-4. Ghazanfari-Rad, S. (2025). Sample Project — Engineering Statistics and Probability Course (`sample_project_01.pdf`). GitHub. https://github.com/saeedgrad/Engineering_Statistics
-5. Central Bank of Iran (CBI). Annual Inflation Rates. https://cbi.ir/Inflation/Inflation_fa.aspx
+3. Mohammadi, H. (2026, 21 May). Subsidy eligibility conditional on passing the means test. IBENA. https://ibena.ir/fa/news/183279
+4. Ghazanfari-Rad, S. (2025). Engineering Statistics and Probability Sample Project (`sample_project_01.pdf`). GitHub. https://github.com/saeedgrad/Engineering_Statistics
+5. Central Bank of Iran. Inflation Rates. https://cbi.ir/Inflation/Inflation_fa.aspx
